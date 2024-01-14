@@ -1,0 +1,5 @@
+com/example/mongoDbSpring/MongoDbSpringApplication.class
+com/example/mongoDbSpring/controller/TaskController.class
+com/example/mongoDbSpring/service/TaskService.class
+com/example/mongoDbSpring/entity/Task.class
+com/example/mongoDbSpring/repository/TaskRepository.class

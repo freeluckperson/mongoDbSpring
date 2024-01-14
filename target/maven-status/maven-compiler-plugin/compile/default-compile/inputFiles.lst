@@ -1,0 +1,5 @@
+/home/segura/Escritorio/Desarrollo web/back end/mongoDbSpring/src/main/java/com/example/mongoDbSpring/entity/Task.java
+/home/segura/Escritorio/Desarrollo web/back end/mongoDbSpring/src/main/java/com/example/mongoDbSpring/controller/TaskController.java
+/home/segura/Escritorio/Desarrollo web/back end/mongoDbSpring/src/main/java/com/example/mongoDbSpring/repository/TaskRepository.java
+/home/segura/Escritorio/Desarrollo web/back end/mongoDbSpring/src/main/java/com/example/mongoDbSpring/service/TaskService.java
+/home/segura/Escritorio/Desarrollo web/back end/mongoDbSpring/src/main/java/com/example/mongoDbSpring/MongoDbSpringApplication.java
